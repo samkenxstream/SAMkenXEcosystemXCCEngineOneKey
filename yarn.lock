@@ -5657,7 +5657,7 @@ __metadata:
   dependencies:
     "@0xsequence/multicall": ^0.36.8
     "@onekeyhq/components": "*"
-    "@openzeppelin/contracts": ^4.8.3
+    "@openzeppelin/contracts": ^4.9.2
     "@reduxjs/toolkit": ^1.6.2
     "@siddomains/sidjs": ^0.1.22
     "@types/d3-scale": ^4.0.2
@@ -5676,7 +5676,7 @@ __metadata:
   resolution: "@onekeyhq/kit@workspace:packages/kit"
   dependencies:
     "@onekeyhq/components": "*"
-    "@openzeppelin/contracts": ^4.8.3
+    "@openzeppelin/contracts": ^4.9.2
     "@react-navigation/devtools": ^6.0.18
     "@reduxjs/toolkit": ^1.9.5
     "@types/d3-scale": ^4.0.3
@@ -5770,10 +5770,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@openzeppelin/contracts@npm:^4.8.3":
-  version: 4.8.3
-  resolution: "@openzeppelin/contracts@npm:4.8.3"
-  checksum: aea130d38d46840c5cbe3adbaa9a7ac645e4bd66ad3f3baf2fa78588c408d1a686170b3408c9e2e5e05530fba22ecdc00d7efb6b27852a8b29f91accbc0af255
+"@openzeppelin/contracts@npm:^4.9.2":
+  version: 4.9.2
+  resolution: "@openzeppelin/contracts@npm:4.9.2"
+  checksum: 0538b18fe222e5414a5a539c240b155e0bef2a23c5182fb8e137d71a0c390fe899160f2d55701f75b127f54cc61aee4375370acc832475f19829368ac65c1fc6
   languageName: node
   linkType: hard
 
