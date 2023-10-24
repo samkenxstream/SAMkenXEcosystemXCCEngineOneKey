@@ -23,7 +23,7 @@
     "@expo/next-adapter": "^4.0.13",
     "@vespaiach/axios-fetch-adapter": "^0.3.1",
     "cross-env": "^7.0.3",
-    "next": "^11.1.2",
+    "next": "^13.5.0",
     "next-compose-plugins": "^2.2.0",
     "next-transpile-modules": "^8.0.0",
     "react": "18.2.0",
